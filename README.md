@@ -1,11 +1,11 @@
 ### Hi there, I am [Nipuna](https://nipunachhabra.github.io/) ###
+- 😄 Pronouns: She/Her
 
 ### 🧐 More About Me:
 - 🔭 I'm a software engineer at Amazon, where I work on systems that support global logistics and freight payments.
 - 🌱 Currently learning more about AI engineering, ML systems, and modern model architectures.
 - 🤔 Interested in open-source projects, research collaborations, and volunteer opportunities.
 - 📫 Get in touch: [Email](chhabra.nipuna@gmail.com), [Linkedin](https://www.linkedin.com/in/nipunachhabra/)
-- 😄 Pronouns: She/Her
 - ⚡ From Nainital; I'm usually hiking, gardening, talking about sustainability, binge-watching C-dramas, or reading books. My top 3 recommendations - A Man Called Ove, The Psychology of Money, and What You Are Looking For Is in the Library. 
 
 ### Tools and Languages
